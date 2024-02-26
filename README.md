@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuWater19
-- 👀 I’m interested in Python, R, SQL, Data
+- 👀 I’m interested in Python, Jupyter, R, SQL, Data
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
